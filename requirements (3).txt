@@ -1,0 +1,7 @@
+streamlit
+groq
+beautifulsoup4
+requests
+nest_asyncio
+pydantic
+rich
